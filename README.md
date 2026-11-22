@@ -1,8 +1,8 @@
 # Molten Dark Chocolate — One River of 70%
 
-![Competition](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)
-![Rank](https://make.fun/badge/argasap87/makefun-the-picture-that-tastes-of-one-20261122-2047b/rank.svg)
-![Reward](https://make.fun/badge/argasap87/makefun-the-picture-that-tastes-of-one-20261122-2047b/reward.svg)
+[![make.fun · the-picture-that-tastes-of-one-20261122-2047](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![rank](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/argasap87/makefun-the-picture-that-tastes-of-one-20261122-2047b/rank.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
+[![reward](https://make.fun/badge/the-picture-that-tastes-of-one-20261122-2047/argasap87/makefun-the-picture-that-tastes-of-one-20261122-2047b/reward.svg)](https://make.fun/bounty/the-picture-that-tastes-of-one-20261122-2047?utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047)
 
 Entry for the [make.fun](https://make.fun) bounty
 **"The picture that tastes of one ingredient"**
